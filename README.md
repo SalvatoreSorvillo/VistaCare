@@ -22,7 +22,7 @@ Working at night and your monitor's lowest brightness is **still** too bright? V
 actual luminance of every display in software - as dark as you want. Instead of laying a black
 overlay over the screen, it scales the GPU's **gamma ramp**, which is applied at the very last
 display stage (*after* the cursor and taskbar are drawn). So **everything** dims evenly: the mouse
-cursor, the taskbar, the Start menu, even fullscreen video. One ~41 KB executable. No installer, no
+cursor, the taskbar, the Start menu, even fullscreen video. One 41 KB executable. No installer, no
 admin, no dependencies.
 
 ## Install
