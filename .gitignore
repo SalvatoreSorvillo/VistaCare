@@ -1,0 +1,18 @@
+# The built binary is published via GitHub Releases, not committed to source.
+# (Delete this line if you'd rather keep VistaCare.exe in the repo.)
+*.exe
+
+# Visual Studio / MSBuild output, if you ever open this in an IDE
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# Claude Code local settings
+.claude/
+
+# OS / editor cruft
+Thumbs.db
+desktop.ini
+*~
