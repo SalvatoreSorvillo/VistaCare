@@ -32,7 +32,7 @@ admin, no dependencies.
 double-click it. It lives in your system tray.
 
 > Because the app isn't code-signed, Windows may show *"Windows protected your PC."* Click
-> **More info → Run anyway**. The exe is a single ~41 KB file and its SHA-256 is published with
+> **More info → Run anyway**. The exe is a single 41 KB file and its SHA-256 is published with
 > each release so you can verify it.
 
 **Option 2 - winget**
