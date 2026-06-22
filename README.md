@@ -44,7 +44,11 @@ winget install SalvatoreSorvillo.VistaCare
 
 ## Controls
 
-<!-- TODO: add screenshots at docs/slider.png and docs/menu.png -->
+<p align="center">
+  <img src="docs/slider.jpg" alt="VistaCare brightness slider" height="210">
+  &nbsp;&nbsp;&nbsp;
+  <img src="docs/menu.jpg" alt="VistaCare right-click menu" height="210">
+</p>
 
 - **Left-click** the tray icon → brightness slider (opens next to the cursor; drag down to dim).
 - **Right-click** the tray icon → presets (100%…20%), **Pause**, **Start automatically after ▸**
