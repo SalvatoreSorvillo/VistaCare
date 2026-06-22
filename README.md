@@ -11,8 +11,8 @@ minimum** — without the "bright cursor / bright taskbar" bugs that overlay-bas
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 ![Platform](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?style=for-the-badge)
 
-<!-- TODO: add a short screen recording at docs/demo.gif and uncomment the line below -->
-<!-- ![VistaCare demo](docs/demo.gif) -->
+<!-- Hero GIF (film with a phone + locked exposure, then uncomment):
+![VistaCare dimming every monitor — cursor and taskbar included](docs/demo.gif) -->
 
 </div>
 
@@ -57,7 +57,11 @@ winget install SalvatoreSorvillo.VistaCare
 
 ## Controls
 
-<!-- TODO: add screenshots at docs/slider.png and docs/menu.png -->
+<p align="center">
+  <img src="docs/slider.png" alt="VistaCare brightness slider" height="210">
+  &nbsp;&nbsp;&nbsp;
+  <img src="docs/menu.png" alt="VistaCare right-click menu" height="210">
+</p>
 
 - **Left-click** the tray icon → brightness slider (opens next to the cursor; drag down to dim).
 - **Right-click** the tray icon → presets (100%…20%), **Pause**, **Start automatically after ▸**
